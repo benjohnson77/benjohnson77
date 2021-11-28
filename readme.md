@@ -1,4 +1,4 @@
-# Hi I' Ben
+# Hi I'm Ben
 
 I am the CEO of Particle 41 and a Director of Engineering at LegalZoom. I am currently very interested in DevOps and RPA projects. I love bringing products and projects into the latest low barrier cloud technologies.  
 
