@@ -2,7 +2,7 @@
 
 I am the CEO of Particle 41 and a Director of Engineering at LegalZoom. I am currently very interested in DevOps and RPA projects. I love bringing products and projects into the latest low barrier cloud technologies.  
 
-## Kung Foo's I like 
+## Kung Fu's I like 
 - Ruby on Rails
 - PHP on Laravel 
 - NodeJS with HAPI
