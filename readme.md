@@ -1,6 +1,6 @@
 # Hi I'm Ben
 
-I am the CEO of Particle 41 and the CTO for Dockworks. I enjoying bring together world class teams by applying lean priciples to the software process. By using Scrum and DevOps methodologies I achieve fun and productive results.   
+I am the CEO of Particle41 and the CTO for Dockworks. I enjoying bring together world class teams by applying lean priciples to the software process. By using Scrum and DevOps methodologies I achieve fun and productive results.   
 
 ## Kung Fu's I like 
 - Python on Django
