@@ -30,16 +30,16 @@ As a CTO and CoFounder I have built several successful companies from the ground
 - VP of Engineering at One Travel and online travel company where I go to rack and stack and build a ecommerce travel site from the ground up. 
 
 ## Podcasts
-[Cracking The Entrepreneurship Code​](https://podcasts.apple.com/us/podcast/taking-your-business-to-the-next-level-with-systems/id1500300827?i=1000604040420)
-[Leading From the Middle](https://podcasts.apple.com/us/podcast/episode-12-leading-from-the-middle/id1654789758?i=1000596155361)
-[Future Fit Founder](https://podcasts.apple.com/us/podcast/clipping-the-trees-and-the-benefits/id1577342705?i=1000598584008)
-[Adventures in Dev Ops](https://podcasts.apple.com/us/podcast/devops-as-a-service-with-benjamin-johnson-devops-155/id1475784710?i=1000605945865)
-[The Jeff Bullas Show](https://podcasts.apple.com/us/podcast/exploring-the-intersection-of-ai-and-software-development/id1502649184?i=1000611793301)
-[Absolute Business Mindset](https://podcasts.apple.com/us/podcast/serial-entrepreneur-ben-johnson-discusses-business/id1340548096?i=1000606067020)
-[Serial Entrepreneur Show](https://podcasts.apple.com/us/podcast/managing-a-remote-team-with-extreme-ownership/id1591304455?i=1000614457069)
-[CEO Sales Strategies](https://podcasts.apple.com/us/podcast/the-ceo-mindset-from-a-startup-to-becoming-a/id1560405867?i=1000622256895)
-[The Shades of Entrepreneurship™](https://podcasts.apple.com/us/podcast/founder-and-ceo-of-particle41-benjamin-johnson/id1552577775?i=1000611610962)
-[Biz/Dev](https://podcasts.apple.com/us/podcast/pixel-and-particle-meeting-of-the-minds-w-ben-johnson-ep-86/id1587201890?i=1000616835083)
-[Software Process and Measurement Cast](https://podcasts.apple.com/us/podcast/it-is-all-about-teams-a-conversation-with-ben-johnson/id213024387?i=1000622854316)
-[Security Confidential](https://podcasts.apple.com/us/podcast/s11-e7-what-makes-a-great-devops-team/id1454036146?i=1000618048288)
+- [Cracking The Entrepreneurship Code​](https://podcasts.apple.com/us/podcast/taking-your-business-to-the-next-level-with-systems/id1500300827?i=1000604040420)
+- [Leading From the Middle](https://podcasts.apple.com/us/podcast/episode-12-leading-from-the-middle/id1654789758?i=1000596155361)
+- [Future Fit Founder](https://podcasts.apple.com/us/podcast/clipping-the-trees-and-the-benefits/id1577342705?i=1000598584008)
+- [Adventures in Dev Ops](https://podcasts.apple.com/us/podcast/devops-as-a-service-with-benjamin-johnson-devops-155/id1475784710?i=1000605945865)
+- [The Jeff Bullas Show](https://podcasts.apple.com/us/podcast/exploring-the-intersection-of-ai-and-software-development/id1502649184?i=1000611793301)
+- [Absolute Business Mindset](https://podcasts.apple.com/us/podcast/serial-entrepreneur-ben-johnson-discusses-business/id1340548096?i=1000606067020)
+- [Serial Entrepreneur Show](https://podcasts.apple.com/us/podcast/managing-a-remote-team-with-extreme-ownership/id1591304455?i=1000614457069)
+- [CEO Sales Strategies](https://podcasts.apple.com/us/podcast/the-ceo-mindset-from-a-startup-to-becoming-a/id1560405867?i=1000622256895)
+- [The Shades of Entrepreneurship™](https://podcasts.apple.com/us/podcast/founder-and-ceo-of-particle41-benjamin-johnson/id1552577775?i=1000611610962)
+- [Biz/Dev](https://podcasts.apple.com/us/podcast/pixel-and-particle-meeting-of-the-minds-w-ben-johnson-ep-86/id1587201890?i=1000616835083)
+- [Software Process and Measurement Cast](https://podcasts.apple.com/us/podcast/it-is-all-about-teams-a-conversation-with-ben-johnson/id213024387?i=1000622854316)
+- [Security Confidential](https://podcasts.apple.com/us/podcast/s11-e7-what-makes-a-great-devops-team/id1454036146?i=1000618048288)
 
