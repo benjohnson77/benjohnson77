@@ -1,20 +1,22 @@
-# Hi I'm Ben
+# Hi, I'm Ben
 
 I am the CEO of Particle 41. I enjoying bringing together world class teams by applying lean principles to the software process. By using Scrum and DevOps methodologies I achieve fun and productive results. 
 
 As a CTO and CoFounder I have built several successful companies from the ground up, helped them raise money and exit.
 
-## Kung Fu's I like 
+## Kung Fu's I like
 - Python on Django
 - Ruby on Rails
-- PHP on Laravel 
-- NodeJS with HAPI
-- Bootstrap and Angular
+- PHP on Laravel
+- NodeJS & TypeScript with NestJS
+- ReactJS with NextJS
+- Bootstrap Sass or Less
 - Spring Boot with Kotlin
 - Chef, Ansible and Terraform
 - GoLang
 
 ## Work Experience Highlights
+
 - CEO at Particle41 LLC building world-class teams that accomplish incredible things in various industries. We accelerate Software Development, DevOps, and Data Science initiatives. 
 
 - CTO of Dockworks.co sold to DockMaster (Aspire Software a Valsoft Company) in 2023
@@ -26,7 +28,6 @@ As a CTO and CoFounder I have built several successful companies from the ground
 - VP of Engineering at Travel Ad Network one of the first Vertical Ad Networks that focused on Travel Marketing. 
 
 - VP of Engineering at One Travel and online travel company where I go to rack and stack and build a ecommerce travel site from the ground up. 
-
 
 ## Podcasts
 [Cracking The Entrepreneurship Code​](https://podcasts.apple.com/us/podcast/taking-your-business-to-the-next-level-with-systems/id1500300827?i=1000604040420)
